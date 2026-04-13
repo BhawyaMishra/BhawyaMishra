@@ -1,4 +1,4 @@
-# Hi there, I'm Bhawya Mishra
+#  Hi there, I'm Bhawya Mishra
 
 🎓 B.Tech CSE Student
 💡 Passionate about Web Development, Java, DSA, Python & Problem Solving
