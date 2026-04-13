@@ -1,8 +1,8 @@
 #  Hi there, I'm Bhawya Mishra
 
-🎓 B.Tech CSE Student
-💡 Passionate about Web Development, Java, DSA, Python & Problem Solving
-🚀 Currently working on real-world projects & leveling up every day
+🎓 B.Tech CSE Student  
+💡 Passionate about Web Development, Java, DSA, Python & Problem Solving  
+🚀 Currently working on real-world projects & leveling up every day  
 
 ---
 
